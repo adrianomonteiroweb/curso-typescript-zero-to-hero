@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES2019",
+    "target": "es6",
     "module": "CommonJS",
     "lib": ["ESNext", "DOM"],
     "outDir": "./dist",
@@ -11,5 +11,5 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "strictNullChecks": false
-  },
+  }
 }

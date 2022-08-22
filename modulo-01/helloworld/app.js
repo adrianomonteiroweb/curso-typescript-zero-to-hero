@@ -1,4 +1,3 @@
-"use strict";
 /**
  * arquivo: helloworld/app.ts
  * descrição: arquivo responsável por ensinar conceitos básicos sobre TypeScript
@@ -6,5 +5,5 @@
  * author: Glaucia Lemos <@glaucia_lemos86>
  * Transpilação do arquivo: <Windows> CTRL + SHIFT + B
  */
-let mensagem = 'Hello World, Glaucia Lemos!';
+var mensagem = 'Hello World, Glaucia Lemos!';
 console.log(mensagem);
